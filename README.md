@@ -1,6 +1,6 @@
 # Anonymous-Chat-App
 
-React • Tailwind CSS v4 • GraphQL • Node.js (Express) • Redis • Docker
+React • Tailwind CSS v4 • GraphQL • Node.js (Express) • Redis • Docker App
 
 ---
 
@@ -81,3 +81,7 @@ The application requires Redis for real-time message distribution. Run the follo
 ```bash
 docker run --name chat-redis-final -p 7379:6379 -d redis
 ```
+
+[Patika GraphQL Project-3](https://academy.patika.dev/courses/graphql/project-03)
+
+[Patika](https://academy.patika.dev/tr/@alpk)
